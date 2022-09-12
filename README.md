@@ -1,0 +1,2 @@
+## Handwritten Digits Recognition
+The objective is to train a Machine Learning model to recognize handwritten digits, using the MNIST dataset, training several classification algorithms, and choosing one with the help of sklearn tools.
